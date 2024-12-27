@@ -1,12 +1,12 @@
 import { useState, useEffect } from 'react'
 
 const languages = [
-  { code: 'en', name: 'Inglês', },
-  { code: 'es', name: 'Espanhol', },
-  { code: 'fr', name: 'Francês', },
-  { code: 'de', name: 'Alemão', },
-  { code: 'it', name: 'Italiano', },
-  { code: 'pt', name: 'Português', },
+  { code: 'en', name: 'English', },
+  { code: 'es', name: 'Spanish', },
+  { code: 'fr', name: 'French', },
+  { code: 'de', name: 'German', },
+  { code: 'it', name: 'Italian', },
+  { code: 'pt', name: 'Portuguese', },
 
 ]
 
