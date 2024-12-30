@@ -1,5 +1,4 @@
 # Online Translator
----
 
 A web online translator made with React and TailwindCSS.
 
